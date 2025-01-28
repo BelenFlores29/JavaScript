@@ -1,2 +1,2 @@
 # JavaScript
-Prácitcas en lenguaje JavaScript para la materia de Lenguajes de Internet
+Prácitcas escolares en lenguaje JavaScript para la materia de Lenguajes de Internet
